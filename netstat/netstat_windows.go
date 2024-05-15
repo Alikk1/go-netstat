@@ -1,4 +1,5 @@
-// +build amd64
+//go:build windows
+// +build windows
 
 package netstat
 
