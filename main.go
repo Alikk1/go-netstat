@@ -3,10 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/Alikk1/go-netstat/netstat/netstat"
 	"net"
 	"os"
-
-	"github.com/cakturk/go-netstat/netstat"
 )
 
 var (
