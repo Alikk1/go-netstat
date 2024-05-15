@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/Alikk1/go-netstat/netstat/netstat"
+	"github.com/Alikk1/go-netstat/netstat"
 	"net"
 	"os"
 )
